@@ -21,7 +21,7 @@ function App() {
   })
   return (
     <div>
-      <Router></Router>
+      <Router>
         <Route exact path = '/'>
       <Home />
         </Route>
